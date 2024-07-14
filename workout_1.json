@@ -1,0 +1,62 @@
+{
+    "workout_name":"Will's Vomit Workout",
+    "interval":35,
+    "rest":25,
+    "cooldown":5,
+    "sets":3,
+    "run_sheet":[
+        {
+            "name":"Pistol Squats"
+        },
+        {
+            "name":"Curl 12kg",
+            "wait":true
+        },
+        {
+            "name":"Leg Cris-crosses"
+        },
+        {
+            "name":"Left Side Plank + Thread the Needle"
+        },
+        {
+            "name":"Right Side Plank + Thread the Needle"
+        },
+        {
+            "name":"Push Press 12kg"
+        },
+        {
+            "name":"Deadlift 12kg"
+        },
+        {
+            "name":"Row"
+        },
+        {
+            "name":"Squat 12kg"
+        },
+        {
+            "name":"Push-up",
+            "wait":true
+        },
+        
+        {
+            "name":"Tricep Raises",
+            "wait":true
+        },
+        {
+            "name":"Russian Twist"
+        },
+        {
+            "name":"Half Raise Hamstring Stretch x5",
+            "wait":true
+        },
+        {
+            "name":"Sit-up",
+            "interval":60
+        }
+
+    ]
+
+
+
+
+}
