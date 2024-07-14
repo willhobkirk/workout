@@ -11,6 +11,7 @@
 # need:
 # text to speech that tells you what is going on
 # open a new window with text updates in large font
+# test
 
 import json
 
